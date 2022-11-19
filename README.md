@@ -7,8 +7,8 @@ This is the implementation of the 2021 ACM MM Oral paper "[Beyond OCR + VQA: Inv
 The implementation of TVS is modified based on [ASTER](https://github.com/ayumiymk/aster.pytorch). The TVS features (Visually derived text embeddings) are released as follows.
 |Datasets|OCR TVS Features|
 |--------|--------|
-|TextVQA|[TextVQA TVS Rosetta Features](https://drive.google.com/file/d/1JJ9D2PSD84pdIwiDuuxbBAxpvloSaDB5/view?usp=share_link)|
-|ST-VQA|ST-VQA TVS Rosetta Features|
+|TextVQA|[TextVQA TVS Rosetta Features]|
+|ST-VQA|[ST-VQA TVS Rosetta Features](https://drive.google.com/file/d/11YWBN5hueciPulCCK5LsAI6FSkf7lLzv/view?usp=share_link)|
 
 ### Semantically Oriented Object Embedding
 The implementation of SEO-FRCN is modified based on [BUTD](https://github.com/MILVLG/bottom-up-attention.pytorch).
