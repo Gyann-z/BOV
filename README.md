@@ -9,4 +9,5 @@ The implementation of TVS is based on [ASTER](https://github.com/ayumiymk/aster.
 |--------|--------|
 |TextVQA|TextVQA Rosetta-en Features|
 |ST-VQA|ST-VQA Rosetta-en Features|
+
 ###Semantically Oriented Object Embedding
