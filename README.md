@@ -11,4 +11,4 @@ The implementation of TVS is modified based on [ASTER](https://github.com/ayumiy
 |ST-VQA|ST-VQA Rosetta-en Features|
 
 ### Semantically Oriented Object Embedding
-The implementation of SEO-FRCN is modified based on BUTD(https://github.com/MILVLG/bottom-up-attention.pytorch).
+The implementation of SEO-FRCN is modified based on [BUTD](https://github.com/MILVLG/bottom-up-attention.pytorch).
