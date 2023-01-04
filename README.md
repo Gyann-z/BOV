@@ -4,7 +4,7 @@ This is the implementation of the 2021 ACM MM Oral paper "Beyond OCR + VQA: Invo
 
 Visually Enhanced Text Embedding
 ---
-The code of TVS is based on [ASTER](https://github.com/ayumiymk/aster.pytorch).
+The code of TVS is based on [ASTER](https://github.com/ayumiymk/aster.pytorch). The visually derived text feature (V-Text) can be downloaded as follows.
 
 | Datasets | Features |
 |----------|----------|
