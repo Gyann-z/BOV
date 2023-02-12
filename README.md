@@ -14,3 +14,7 @@ ST-VQA | [STVQA_TVS_Rosetta_Features](https://drive.google.com/file/d/11YWBN5hue
 Semantically Oriented Object Embedding
 ---
 The code of SEO-FRCN is based on [BUTD](https://github.com/MILVLG/bottom-up-attention.pytorch).
+
+Context-aware Reading Modification
+---
+The CRM module is a post-processor to modify answer results.
