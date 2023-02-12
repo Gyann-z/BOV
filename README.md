@@ -1,6 +1,6 @@
 BOV
 ===
-This is the implementation of the 2021 ACM MM Oral paper "Beyond OCR + VQA: Involving OCR into the Flow for Robust and Accurate TextVQA". The code is based on [M4C](https://github.com/facebookresearch/mmf/tree/project/m4c/projects/M4C). Please refer to it for more details.
+This is the implementation of the paper "Beyond OCR + VQA: Involving OCR into the Flow for Robust and Accurate TextVQA". The code is based on [M4C](https://github.com/facebookresearch/mmf/tree/project/m4c/projects/M4C). Please refer to it for more details.
 
 Visually Enhanced Text Embedding
 ---
@@ -17,4 +17,4 @@ The code of SEO-FRCN is based on [BUTD](https://github.com/MILVLG/bottom-up-atte
 
 Context-aware Reading Modification
 ---
-The CRM module is a post-processor to modify answer results.
+The [CRM](https://github.com/Gyann-z/BOV/tree/main/CRM) module is a post-processor to modify answer results.
